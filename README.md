@@ -2,10 +2,14 @@
 ## Introduction
 basiclly , in this report i talked about dataset of movies and how cleaning the data from dublicated values and missing values.
 after that i built some research question that is the basic of the methods, so all of the information and creative ideas that you will find it in this report it show the detaild answer of the question.
+
 **The RESEARCH QUESTIONS ARE:**
 **FIRST/** Is there a relation between popularity and Vote ? 
+
 **SECOND/** which movie id had the highest budget ? 
+
 **THIRD/** What are the top 5 directors they generate the highest revenue ? 
+
 **FOURTH/** Can we Visualize Count of released year for movies ?
 
 ## Conclusions
