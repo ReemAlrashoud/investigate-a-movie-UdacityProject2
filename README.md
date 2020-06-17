@@ -6,7 +6,7 @@ after that i built some research question that is the basic of the methods, so a
 
 **The RESEARCH QUESTIONS ARE:**
 
-**FIRST/** Is there a relation between popularity and Vote ? 
+**FIRST/** _Is there a relation between popularity and Vote ?_
 
 **SECOND/** which movie id had the highest budget ? 
 
