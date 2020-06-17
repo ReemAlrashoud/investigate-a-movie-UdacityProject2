@@ -1,7 +1,7 @@
 # investigate-a-movie-UdacityProject2
 
 ## Introduction
-basiclly , in this report i talked about dataset of movies and how cleaning the data from dublicated values and missing values.
+basiclly , in this report i talked about 'dataset of movies' and how cleaning the data from dublicated values and missing values.
 after that i built some research question that is the basic of the methods, so all of the information and creative ideas that you will find it in this report it show the detaild answer of the question.
 
 **The RESEARCH QUESTIONS ARE:**
