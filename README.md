@@ -6,13 +6,13 @@ after that i built some research question that is the basic of the methods, so a
 
 **The RESEARCH QUESTIONS ARE:**
 
-**FIRST/** _Is there a relation between popularity and Vote ?_
+* **FIRST/** _Is there a relation between popularity and Vote ?_
 
-**SECOND/** _which movie id had the highest budget ?_
+* **SECOND/** _which movie id had the highest budget ?_
 
-**THIRD/** _What are the top 5 directors they generate the highest revenue ?_
+* **THIRD/** _What are the top 5 directors they generate the highest revenue ?_
 
-**FOURTH/** _Can we Visualize Count of released year for movies ?_
+* **FOURTH/** _Can we Visualize Count of released year for movies ?_
 
 ## Conclusions
 in conclusion , i aim some cleared results such as: first of all , when the movie becomes a popular it will get more voting , also the max value of voting is around 10000.
