@@ -1,4 +1,4 @@
-# investigate-a-movie-UdacityProject2
+# Movies's investigation
 
 ## Introduction
 basiclly , in this report i talked about `dataset of movies` and how cleaning the data from dublicated values and missing values.
